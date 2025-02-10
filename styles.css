@@ -32,7 +32,7 @@ body {
   border: 1px solid #333;
 }
 
-/* Style black keys */
+/* Style black keys */ 
 .black {
   --width: 60px;
   background-color: black;
