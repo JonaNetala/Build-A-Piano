@@ -41,7 +41,7 @@ document.addEventListener('keydown', (e) => {
   }
 });
 
-// Extra Credit - Plays Twinkle Twinkle Little Star 
+/* Extra Credit - Play Twinkle Twinkle Little Star */
 const melody = ['C', 'C', 'G', 'G', 'A', 'A', 'G', 'F', 'F', 'E', 'E', 'D', 'D', 'C'];
 let melodyIndex = 0;
 
